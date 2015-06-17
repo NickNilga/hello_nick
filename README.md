@@ -1,2 +1,4 @@
 # hello_nick
-my first repository
+My first repository
+
+This repository was created by Mashook.
